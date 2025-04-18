@@ -58,7 +58,7 @@ h1{
 
 
   .hover-list ul {
-    list-style: none;
+    list-style: disc;
     padding: 0;
     margin: 0;
   }
